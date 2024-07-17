@@ -1,2 +1,4 @@
 payload:
   - '+.trss.me'
+  - '+.msys2.org'
+
